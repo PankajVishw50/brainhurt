@@ -1,0 +1,1 @@
+from .brainhurt import BrainHurt
